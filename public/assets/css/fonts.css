@@ -1,0 +1,10 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/nucleo-outline.eot");
+	src: url("../fonts/nucleo-outline.eot?#iefix")format("embedded-opentype"),
+		url("../fonts/nucleo-outline.woff") format("woff"),
+		url("../fonts/nucleo-outline.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
